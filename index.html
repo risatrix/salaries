@@ -1,0 +1,20 @@
+ <!DOCTYPE=html>
+<head>
+  <meta charset="UTF-8">
+  <title>Salaries Test</title>
+</head>
+
+<body>
+:(:(:(!!!!
+<ul class="salary_list">
+</ul>  
+
+<script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>
+<script>
+  $.getJSON("http://localhost:8080/salaries.json", function(data) {
+        console.log(data);
+        // $('body').append(data.employees[0].firstName);
+  });
+</script>
+</body>
+</html>

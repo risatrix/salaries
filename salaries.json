@@ -1,0 +1,803 @@
+{
+  "salaries":
+  [
+    {
+      "POSITION":"Creative Director (8+ years)",
+      "LOW":"$102,500",
+      "HIGH":"$177,500",
+      "CAT":"design, production"
+    },
+    {
+      "POSITION":"Creative Director (5 to 8 years)",
+      "LOW":"$92,500 ",
+      "HIGH":"$130,250 ",
+      "CAT":"design, production"
+    },
+    {
+      "POSITION":"Creative Services Manager",
+      "LOW":"$75,000",
+      "HIGH":"$111,750",
+      "CAT":"design, production"
+    },
+    {
+      "POSITION":"Art Director (5+ years)",
+      "LOW":"$70,750",
+      "HIGH":"$102,000",
+      "CAT":"design, production"
+    },
+    {
+      "POSITION":"Art Director (3 to 5 years)",
+      "LOW":"$62,750",
+      "HIGH":"$76,250",
+      "CAT":"design, production"
+    },
+    {
+      "POSITION":"Production Director (8+ years)",
+      "LOW":"$79,000",
+      "HIGH":"$106,750",
+      "CAT":"design, production"
+    },
+    {
+      "POSITION":"Production Manager",
+      "LOW":"$58,500",
+      "HIGH":"$80,000",
+      "CAT":"design, production"
+    },
+    {
+      "POSITION":"Production Coordinator",
+      "LOW":"$39,500 ",
+      "HIGH":"$53,500 ",
+      "CAT":"design, production"
+    },
+    {
+      "POSITION":"Project Manager",
+      "LOW":"$54,000",
+      "HIGH":"$80,000",
+      "CAT":"design, production"
+    },
+    {
+      "POSITION":"Studio Manager (5+ years)",
+      "LOW":"$71,250",
+      "HIGH":"$98,750",
+      "CAT":"design, production"
+    },
+    {
+      "POSITION":"Studio Manager (1 to 5 years)",
+      "LOW":"$57,500",
+      "HIGH":"$78,000",
+      "CAT":"design, production"
+    },
+    {
+      "POSITION":"Traffic Manager",
+      "LOW":"$50,000",
+      "HIGH":"$71,750 ",
+      "CAT":"design, production"
+    },
+    {
+      "POSITION":"Traffic Coordinator",
+      "LOW":"$38,000",
+      "HIGH":"$54,250",
+      "CAT":"design, production"
+    },
+    {
+      "POSITION":"Technical Illustrator",
+      "LOW":"$67,500",
+      "HIGH":"$93,500",
+      "CAT":"design, production"
+    },
+    {
+      "POSITION":"Medical Illustrator",
+      "LOW":"$64,500",
+      "HIGH":"$85,500",
+      "CAT":"design, production"
+    },
+    {
+      "POSITION":"Illustrator (3+ years)",
+      "LOW":"$53,250",
+      "HIGH":"$75,500",
+      "CAT":"design, production"
+    },
+    {
+      "POSITION":"Illustrator (1 to 3 years)",
+      "LOW":"$39,500",
+      "HIGH":"$53,500",
+      "CAT":"design, production"
+    },
+    {
+      "POSITION":"Graphic Designer (5+ years)",
+      "LOW":"$63,000",
+      "HIGH":"$86,000",
+      "CAT":"design, production"
+    },
+    {
+      "POSITION":"Graphic Designer (3 to 5 years)",
+      "LOW":"$50,000 ",
+      "HIGH":"$69,500 ",
+      "CAT":"design, production"
+    },
+    {
+      "POSITION":"Graphic Designer (1 to 3 years)",
+      "LOW":"$37,750",
+      "HIGH":"$54,500",
+      "CAT":"design, production"
+    },
+    {
+      "POSITION":"Package Designer",
+      "LOW":"$57,750",
+      "HIGH":"$86,500",
+      "CAT":"design, production"
+    },
+    {
+      "POSITION":"Package Production Artist",
+      "LOW":"$45,750",
+      "HIGH":"$63,750",
+      "CAT":"design, production"
+    },
+    {
+      "POSITION":"Layout Designer",
+      "LOW":"$45,500",
+      "HIGH":"$62,500",
+      "CAT":"design, production"
+    },
+    {
+      "POSITION":"Litigation Graphics Specialist",
+      "LOW":"$57,000",
+      "HIGH":"$83,000",
+      "CAT":"design, production"
+    },
+    {
+      "POSITION":"Infographics Designer",
+      "LOW":"$54,500",
+      "HIGH":"$73,000",
+      "CAT":"design, production"
+    },
+    {
+      "POSITION":"3D Animator",
+      "LOW":"$60,500",
+      "HIGH":"$87,000",
+      "CAT":"design, production"
+    },
+    {
+      "POSITION":"3D Modeler",
+      "LOW":"$59,000",
+      "HIGH":"$82,750",
+      "CAT":"design, production"
+    },
+    {
+      "POSITION":"Studio Artist (3+ years)",
+      "LOW":"$52,500",
+      "HIGH":"$69,500",
+      "CAT":"design, production"
+    },
+    {
+      "POSITION":"Studio Artist (1 to 3 years)",
+      "LOW":"$41,000",
+      "HIGH":"$54,500",
+      "CAT":"design, production"
+    },
+    {
+      "POSITION":"Multimedia Designer",
+      "LOW":"$56,250",
+      "HIGH":"$82,250",
+      "CAT":"design, production"
+    },
+    {
+      "POSITION":"Presentation Specialist (3+ years) ",
+      "LOW":"$54,000",
+      "HIGH":"$78,000",
+      "CAT":"design, production"
+    },
+    {
+      "POSITION":"Presentation Specialist (1 to 3 years)",
+      "LOW":"$43,000",
+      "HIGH":"$55,250",
+      "CAT":"design, production"
+    },
+    {
+      "POSITION":"Production Artist (3+ years)",
+      "LOW":"$47,000",
+      "HIGH":"$64,000",
+      "CAT":"design, production"
+    },
+    {
+      "POSITION":"Production Artist (1 to 3 years)",
+      "LOW":"$35,500 ",
+      "HIGH":"$49,000 ",
+      "CAT":"design, production"
+    },
+    {
+      "POSITION":"Interactive Creative Director ",
+      "LOW":"$98,500 ",
+      "HIGH":"$167,000 ",
+      "CAT":"interactive"
+    },
+    {
+      "POSITION":"Interactive Art Director",
+      "LOW":"$83,750",
+      "HIGH":"$115,000",
+      "CAT":"interactive"
+    },
+    {
+      "POSITION":"Interaction Designer (5+ years) ",
+      "LOW":"$78,500",
+      "HIGH":"$110,500",
+      "CAT":"interactive"
+    },
+    {
+      "POSITION":"Interaction Designer (1 to 5 years)  ",
+      "LOW":"$54,500",
+      "HIGH":"$78,750",
+      "CAT":"interactive"
+    },
+    {
+      "POSITION":"Responsive Designer",
+      "LOW":"$67,250",
+      "HIGH":"$98,000",
+      "CAT":"interactive"
+    },
+    {
+      "POSITION":"Information Architect",
+      "LOW":"$83,000",
+      "HIGH":"$123,750",
+      "CAT":"interactive"
+    },
+    {
+      "POSITION":"User Experience (UX) Director",
+      "LOW":"$108,500",
+      "HIGH":"$161,750",
+      "CAT":"interactive"
+    },
+    {
+      "POSITION":"User Experience (UX) Designer",
+      "LOW":"$78,000",
+      "HIGH":"$120,000",
+      "CAT":"interactive"
+    },
+    {
+      "POSITION":"User Experience (UX) Specialist",
+      "LOW":"$79,000",
+      "HIGH":"$118,000",
+      "CAT":"interactive"
+    },
+    {
+      "POSITION":"User Interface (UI) Developer  ",
+      "LOW":"$80,500",
+      "HIGH":"$118,750",
+      "CAT":"interactive"
+    },
+    {
+      "POSITION":"Web Designer (5+ years)",
+      "LOW":"$76,750",
+      "HIGH":"$107,000",
+      "CAT":"interactive"
+    },
+    {
+      "POSITION":"Web Designer (1 to 5 years)",
+      "LOW":"$52,750",
+      "HIGH":"$79,500",
+      "CAT":"interactive"
+    },
+    {
+      "POSITION":"Email Marketing Designer",
+      "LOW":"$51,000",
+      "HIGH":"$72,250",
+      "CAT":"interactive"
+    },
+    {
+      "POSITION":"Flash Designer/Developer",
+      "LOW":"$60,500",
+      "HIGH":"$88,500",
+      "CAT":"interactive"
+    },
+    {
+      "POSITION":"HTML Developer",
+      "LOW":"$58,000",
+      "HIGH":"$83,000",
+      "CAT":"interactive"
+    },
+    {
+      "POSITION":"Front-End Web Developer (3+ years)",
+      "LOW":"$63,500",
+      "HIGH":"$90,000",
+      "CAT":"interactive"
+    },
+    {
+      "POSITION":"Front-End Web Developer (1 to 3 years)",
+      "LOW":"$47,750",
+      "HIGH":"$68,000",
+      "CAT":"interactive"
+    },
+    {
+      "POSITION":"Interactive Producer",
+      "LOW":"$70,750",
+      "HIGH":"$98,750",
+      "CAT":"interactive"
+    },
+    {
+      "POSITION":"Web Production Artist",
+      "LOW":"$48,500",
+      "HIGH":"$66,500",
+      "CAT":"interactive"
+    },
+    {
+      "POSITION":"Blogger",
+      "LOW":"$42,000",
+      "HIGH":"$63,750",
+      "CAT":"interactive"
+    },
+    {
+      "POSITION":"Motion Designer",
+      "LOW":"$64,500",
+      "HIGH":"$94,750",
+      "CAT":"interactive"
+    },
+    {
+      "POSITION":"Video Producer",
+      "LOW":"$61,000",
+      "HIGH":"$86,500",
+      "CAT":"interactive"
+    },
+    {
+      "POSITION":"Video Editor",
+      "LOW":"$54,500",
+      "HIGH":"$79,000",
+      "CAT":"interactive"
+    },
+    {
+      "POSITION":"Mobile Designer",
+      "LOW":"$66,000",
+      "HIGH":"$103,000",
+      "CAT":"interactive"
+    },
+    {
+      "POSITION":"Mobile Developer",
+      "LOW":"$84,000",
+      "HIGH":"$121,500",
+      "CAT":"interactive"
+    },
+    {
+      "POSITION":"Game Designer",
+      "LOW":"$62,750",
+      "HIGH":"$98,250",
+      "CAT":"interactive"
+    },
+    {
+      "POSITION":"Copywriter (5+ years)",
+      "LOW":"$74,500",
+      "HIGH":"$105,000",
+      "CAT":"content"
+    },
+    {
+      "POSITION":"Copywriter (3 to 5 years)",
+      "LOW":"$57,750",
+      "HIGH":"$75,500",
+      "CAT":"content"
+    },
+    {
+      "POSITION":"Copywriter (1 to 3 years)",
+      "LOW":"$41,500",
+      "HIGH":"$56,750",
+      "CAT":"content"
+    },
+    {
+      "POSITION":"Medical Writer (5+ years) ",
+      "LOW":"$83,500 ",
+      "HIGH":"$114,500 ",
+      "CAT":"content"
+    },
+    {
+      "POSITION":"Medical Writer (3 to 5 years)",
+      "LOW":"$66,500",
+      "HIGH":"$90,500",
+      "CAT":"content"
+    },
+    {
+      "POSITION":"Curriculum Developer/Writer",
+      "LOW":"$68,000",
+      "HIGH":"$95,500",
+      "CAT":"content"
+    },
+    {
+      "POSITION":"Instructional Systems Designer",
+      "LOW":"$70,500",
+      "HIGH":"$107,250",
+      "CAT":"content"
+    },
+    {
+      "POSITION":"Proposal Writer",
+      "LOW":"$61,000",
+      "HIGH":"$84,750",
+      "CAT":"content"
+    },
+    {
+      "POSITION":"Web Content Writer (5+ years)",
+      "LOW":"$62,500",
+      "HIGH":"$92,500",
+      "CAT":"content"
+    },
+    {
+      "POSITION":"Web Content Writer (1 to 5 years)",
+      "LOW":"$45,750",
+      "HIGH":"$68,500",
+      "CAT":"content"
+    },
+    {
+      "POSITION":"Copy Editor (3+ years)",
+      "LOW":"$52,000",
+      "HIGH":"$72,500",
+      "CAT":"content"
+    },
+    {
+      "POSITION":"Copy Editor (1 to 3 years)",
+      "LOW":"$38,500",
+      "HIGH":"$52,500",
+      "CAT":"content"
+    },
+    {
+      "POSITION":"Proofreader",
+      "LOW":"$36,500",
+      "HIGH":"$53,750",
+      "CAT":"content"
+    },
+    {
+      "POSITION":"Content Manager",
+      "LOW":"$62,250",
+      "HIGH":"$83,000",
+      "CAT":"content"
+    },
+    {
+      "POSITION":"Content Strategist",
+      "LOW":"$70,500",
+      "HIGH":"$95,500",
+      "CAT":"content"
+    },
+    {
+      "POSITION":"President",
+      "LOW":"$136,000",
+      "HIGH":"$202,000",
+      "CAT":"advertising, marketing, agency"
+    },
+    {
+      "POSITION":"Vice President",
+      "LOW":"$124,000",
+      "HIGH":"$180,000",
+      "CAT":"advertising, marketing, agency"
+    },
+    {
+      "POSITION":"Business Development Director",
+      "LOW":"$93,500",
+      "HIGH":"$152,500",
+      "CAT":"advertising, marketing, agency"
+    },
+    {
+      "POSITION":"Creative Director",
+      "LOW":"$104,500",
+      "HIGH":"$160,750",
+      "CAT":"advertising, marketing, agency"
+    },
+    {
+      "POSITION":"Account Director",
+      "LOW":"$91,000",
+      "HIGH":"$122,000",
+      "CAT":"advertising, marketing, agency"
+    },
+    {
+      "POSITION":"Account Supervisor",
+      "LOW":"$74,250",
+      "HIGH":"$98,500",
+      "CAT":"advertising, marketing, agency"
+    },
+    {
+      "POSITION":"Account Manager (5+ years)",
+      "LOW":"$62,750",
+      "HIGH":"$87,500",
+      "CAT":"advertising, marketing, agency"
+    },
+    {
+      "POSITION":"Account Executive (3+ years)",
+      "LOW":"$50,250",
+      "HIGH":"$70,250",
+      "CAT":"advertising, marketing, agency"
+    },
+    {
+      "POSITION":"Account Coordinator (1 to 3 years)",
+      "LOW":"$36,750",
+      "HIGH":"$51,500",
+      "CAT":"advertising, marketing, agency"
+    },
+    {
+      "POSITION":"Account Planner/Strategist",
+      "LOW":"$42,000",
+      "HIGH":"$63,500",
+      "CAT":"advertising, marketing, agency"
+    },
+    {
+      "POSITION":"Social Media Account Manager",
+      "LOW":"$53,000",
+      "HIGH":"$72,500",
+      "CAT":"advertising, marketing, agency"
+    },
+    {
+      "POSITION":"Chief Marketing Officer",
+      "LOW":"$135,000",
+      "HIGH":"$212,500",
+      "CAT":"advertising, marketing, corporate"
+    },
+    {
+      "POSITION":"Vice President of Marketing",
+      "LOW":"$116,000",
+      "HIGH":"$206,000",
+      "CAT":"advertising, marketing, corporate"
+    },
+    {
+      "POSITION":"Marketing Director",
+      "LOW":"$91,500",
+      "HIGH":"$138,500",
+      "CAT":"advertising, marketing, corporate"
+    },
+    {
+      "POSITION":"MarCom Manager",
+      "LOW":"$66,750",
+      "HIGH":"$97,000",
+      "CAT":"advertising, marketing, corporate"
+    },
+    {
+      "POSITION":"MarCom Specialist (5+ years)",
+      "LOW":"$63,500",
+      "HIGH":"$88,500",
+      "CAT":"advertising, marketing, corporate"
+    },
+    {
+      "POSITION":"MarCom Specialist (1 to 5 years)",
+      "LOW":"$46,000",
+      "HIGH":"$65,500",
+      "CAT":"advertising, marketing, corporate"
+    },
+    {
+      "POSITION":"Media Director (5+ years)",
+      "LOW":"$83,750",
+      "HIGH":"$118,000",
+      "CAT":"advertising, marketing, corporate, agency"
+    },
+    {
+      "POSITION":"Media Planner",
+      "LOW":"$58,250",
+      "HIGH":"$82,000",
+      "CAT":"advertising, marketing, corporate, agency"
+    },
+    {
+      "POSITION":"Media Buyer (3+ years)",
+      "LOW":"$54,750",
+      "HIGH":"$79,500",
+      "CAT":"advertising, marketing, corporate, agency"
+    },
+    {
+      "POSITION":"Media Buyer (1 to 3 years)",
+      "LOW":"$42,750",
+      "HIGH":"$58,000",
+      "CAT":"advertising, marketing, corporate, agency"
+    },
+    {
+      "POSITION":"Market Researcher (3+ years) ",
+      "LOW":"$65,000 ",
+      "HIGH":"$84,250 ",
+      "CAT":"advertising, marketing, corporate, agency"
+    },
+    {
+      "POSITION":"Market Researcher (1 to 3 years)",
+      "LOW":"$46,000",
+      "HIGH":"$60,250",
+      "CAT":"advertising, marketing, corporate, agency"
+    },
+    {
+      "POSITION":"Brand/Product Manager (5+ years)",
+      "LOW":"$80,500",
+      "HIGH":"$108,500",
+      "CAT":"advertising, marketing, corporate, agency"
+    },
+    {
+      "POSITION":"Brand/Product Manager (1 to 5 years)",
+      "LOW":"$62,500",
+      "HIGH":"$86,000",
+      "CAT":"advertising, marketing, corporate, agency"
+    },
+    {
+      "POSITION":"MarCom Manager (5+ years)",
+      "LOW":"$72,000",
+      "HIGH":"$100,750 ",
+      "CAT":"advertising, marketing, corporate, agency"
+    },
+    {
+      "POSITION":"MarCom Manager (3 to 5 years)",
+      "LOW":"$59,000",
+      "HIGH":"$80,000",
+      "CAT":"advertising, marketing, corporate, agency"
+    },
+    {
+      "POSITION":"MarCom Coordinator (1 to 3 years)",
+      "LOW":"$41,000",
+      "HIGH":"$58,000",
+      "CAT":"advertising, marketing, corporate, agency"
+    },
+    {
+      "POSITION":"User Experience (UX) Analyst",
+      "LOW":"$72,750",
+      "HIGH":"$97,500",
+      "CAT":"advertising, marketing, corporate, agency"
+    },
+    {
+      "POSITION":"Event/Trade Show Manager",
+      "LOW":"$53,000",
+      "HIGH":"$78,500",
+      "CAT":"advertising, marketing, corporate, agency"
+    },
+    {
+      "POSITION":"Event/Trade Show Coordinator",
+      "LOW":"$40,750",
+      "HIGH":"$55,500",
+      "CAT":"advertising, marketing, corporate, agency"
+    },
+    {
+      "POSITION":"Digital Marketing Strategist",
+      "LOW":"$88,000",
+      "HIGH":"$128,500",
+      "CAT":"advertising, marketing, corporate, agency"
+    },
+    {
+      "POSITION":"Interactive Marketing Manager",
+      "LOW":"$84,000",
+      "HIGH":"$122,000",
+      "CAT":"advertising, marketing, corporate, agency"
+    },
+    {
+      "POSITION":"E-Commerce Marketing Manager ",
+      "LOW":"$81,500",
+      "HIGH":"$111,500",
+      "CAT":"advertising, marketing, corporate, agency"
+    },
+    {
+      "POSITION":"Email Marketing Manager",
+      "LOW":"$67,000",
+      "HIGH":"$88,500",
+      "CAT":"advertising, marketing, corporate, agency"
+    },
+    {
+      "POSITION":"Mobile Marketing Manager",
+      "LOW":"$82,250",
+      "HIGH":"$113,000",
+      "CAT":"advertising, marketing, corporate, agency"
+    },
+    {
+      "POSITION":"Marketing Analytics Specialist (3+ years)",
+      "LOW":"$70,750",
+      "HIGH":"$92,750",
+      "CAT":"advertising, marketing, corporate, agency"
+    },
+    {
+      "POSITION":"Marketing Analytics Specialist (1 to 3 years)",
+      "LOW":"$55,250",
+      "HIGH":"$72,500",
+      "CAT":"advertising, marketing, corporate, agency"
+    },
+    {
+      "POSITION":"Web Analytics Specialist (3+ years)",
+      "LOW":"$78,000",
+      "HIGH":"$102,000",
+      "CAT":"advertising, marketing, corporate, agency"
+    },
+    {
+      "POSITION":"Web Analytics Specialist (1 to 3 years)",
+      "LOW":"$72,000",
+      "HIGH":"$97,000",
+      "CAT":"advertising, marketing, corporate, agency"
+    },
+    {
+      "POSITION":"SEO/SEM Specialist (3+ years)",
+      "LOW":"$70,500",
+      "HIGH":"$94,000",
+      "CAT":"advertising, marketing, corporate, agency"
+    },
+    {
+      "POSITION":"SEO/SEM Specialist (1 to 3 years)",
+      "LOW":"$50,250",
+      "HIGH":"$66,250",
+      "CAT":"advertising, marketing, corporate, agency"
+    },
+    {
+      "POSITION":"Digital Project Manager",
+      "LOW":"$73,000",
+      "HIGH":"$108,000",
+      "CAT":"advertising, marketing, corporate, agency"
+    },
+    {
+      "POSITION":"Digital Traffic Manager",
+      "LOW":"$56,500",
+      "HIGH":"$79,000",
+      "CAT":"advertising, marketing, corporate, agency"
+    },
+    {
+      "POSITION":"Digital Community Manager",
+      "LOW":"$60,000",
+      "HIGH":"$70,500",
+      "CAT":"advertising, marketing, corporate, agency"
+    },
+    {
+      "POSITION":"Social Media Manager",
+      "LOW":"$65,000",
+      "HIGH":"$90,750",
+      "CAT":"advertising, marketing, corporate, agency"
+    },
+    {
+      "POSITION":"Social Media Marketer",
+      "LOW":"$59,750",
+      "HIGH":"$80,000",
+      "CAT":"advertising, marketing, corporate, agency"
+    },
+    {
+      "POSITION":"Social Media Specialist",
+      "LOW":"$52,250",
+      "HIGH":"$73,500",
+      "CAT":"advertising, marketing, corporate, agency"
+    },
+    {
+      "POSITION":"Vice President/Group Director",
+      "LOW":"$118,000",
+      "HIGH":"$202,500",
+      "CAT":"pr, agency"
+    },
+    {
+      "POSITION":"Account Manager/Supervisor",
+      "LOW":"$78,500",
+      "HIGH":"$112,000",
+      "CAT":"pr, agency"
+    },
+    {
+      "POSITION":"Senior Account Executive (5+ years)",
+      "LOW":"$70,000",
+      "HIGH":"$98,750",
+      "CAT":"pr, agency"
+    },
+    {
+      "POSITION":"Account Executive (3 to 5 years)",
+      "LOW":"$54,000",
+      "HIGH":"$72,000",
+      "CAT":"pr, agency"
+    },
+    {
+      "POSITION":"Account Coordinator (1 to 3 years)",
+      "LOW":"$38,000",
+      "HIGH":"$55,250",
+      "CAT":"pr, agency"
+    },
+    {
+      "POSITION":"Vice President of Public Relations",
+      "LOW":"$118,000",
+      "HIGH":"$200,750",
+      "CAT":"pr, corporate"
+    },
+    {
+      "POSITION":"Public Relations Director",
+      "LOW":"$94,000",
+      "HIGH":"$130,500",
+      "CAT":"pr, corporate"
+    },
+    {
+      "POSITION":"Public Relations Manager",
+      "LOW":"$75,500",
+      "HIGH":"$96,500",
+      "CAT":"pr, corporate"
+    },
+    {
+      "POSITION":"Public Relations Specialist (5+ years)",
+      "LOW":"$63,250",
+      "HIGH":"$88,500",
+      "CAT":"pr, corporate"
+    },
+    {
+      "POSITION":"Public Relations/Communications Specialist (1 to 5 years)",
+      "LOW":"$42,250 ",
+      "HIGH":"$64,000 ",
+      "CAT":"pr, corporate"
+    }
+  ]
+}
