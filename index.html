@@ -5,21 +5,17 @@
 </head>
 
 <body>
-:(:(:(!!!!
+
 <ul class="salary_list">
 </ul>  
 
 <script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>
 <script type="text/javascript" src="js/libs/underscore.js"></script>
 <script type="text/javascript" src="js/libs/backbone.min.js"></script>
+<script type="text/javascript" src="js/salaryApp.js"></script>
 
 <script>
-  $.getJSON("http://localhost:8080/salaries.json", function(data) {
-        console.log(data);
-        for (i=0; i < data.salaries.length; i++) {
-          $('.salary_list').append(data.salaries[i].POSITION);
-        }
-  });
+  
 </script>
 </body>
 </html>
