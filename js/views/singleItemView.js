@@ -10,6 +10,17 @@ app.singleItemView = Backbone.View.extend({
     var itemTemplate = this.template(this.model.toJSON());
     this.$el.html(itemTemplate);
     return this;
+  },
+
+  events: {
+    'click a': 'openModal',
+  },
+
+  openModal: function (e) {
+    e.preventDefault();
+    modal = new app.modalView({ model: this.model} );
+    $("#modal").html(modal.render().el);
+
   }
 
 });

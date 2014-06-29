@@ -7,5 +7,10 @@ var app = app || {};
       LOW: "cheap",
       HIGH: "cheaper",
       CAT: "blah"
-    },
+  },
+
+  events: {
+    'click': 'openModal',
+  },
+
 });

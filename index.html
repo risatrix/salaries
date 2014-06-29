@@ -2,6 +2,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Salaries Test</title>
+  <link rel="stylesheet" href="css/styles.css">
 </head>
 
 <body>
@@ -9,8 +10,18 @@
 <div id="salary-list">
 </div>
 
+<div id="modal">
+</div>
+
 <script id="itemElement" type="text/template">
+  <a href="#">
+    <p><%= POSITION %></p>
+  </a>
+</script>
+
+<script id="modalElement" type="text/template">
   <p><%= POSITION %></p>
+  <p><%= LOW %>-<%= HIGH %></p>
 </script>
   
 <script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>
@@ -18,6 +29,7 @@
 <script type="text/javascript" src="js/libs/backbone.min.js"></script>
 <script type="text/javascript" src="js/models/singleListItemModel.js"></script>
 <script type="text/javascript" src="js/collections/allListItems.js"></script>
+<script type="text/javascript" src="js/views/modalView.js"></script>
 <script type="text/javascript" src="js/views/singleItemView.js"></script>
 <script type="text/javascript" src="js/views/allItems.js"></script>
 <script type="text/javascript" src="js/salaryApp.js"></script>
