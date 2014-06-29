@@ -11,6 +11,13 @@ app.modalView = Backbone.View.extend({
   render: function() {
     var itemTemplate = this.template(this.model.toJSON());
     this.$el.html(itemTemplate);
+    this.$("#range-slider").noUiSlider({
+      start: 40,
+      range: {
+      'min': 0,
+      'max': 100
+      }
+    });
     return this;
   },
 
