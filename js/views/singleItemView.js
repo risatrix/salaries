@@ -20,7 +20,6 @@ app.singleItemView = Backbone.View.extend({
     e.preventDefault();
     modal = new app.modalView({ model: this.model} );
     $("#modal").html(modal.render().el);
-
   }
 
 });

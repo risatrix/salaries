@@ -15,7 +15,11 @@ app.modalView = Backbone.View.extend({
   },
 
   events: {
+    'click .close' : 'closeModal'
   },
 
-});
+  closeModal: function() {
+    this.remove();
+  }  
 
+});
