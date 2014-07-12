@@ -17,9 +17,10 @@ app.singleItemView = Backbone.View.extend({
   },
 
   openModal: function (e) {
-    e.preventDefault();
-    modal = new app.modalView({ model: this.model} );
-    $("#modal").html(modal.render().el);
+    salaryRouter.navigate('/', {trigger: true});
+    // e.preventDefault();
+    // modal = new app.modalView({ model: this.model} );
+    // $("#modal").html(modal.render().el);
   }
 
 });

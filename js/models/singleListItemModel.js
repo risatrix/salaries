@@ -10,6 +10,10 @@ var app = app || {};
       SLUG: ""
   },
 
+  url: function () {
+    return '/' + this.slug;
+  },
+
  parse: function (response) {
     //get slug from position title
     pos = response.POSITION;
@@ -32,7 +36,4 @@ var app = app || {};
     }
   },
 
-  events: {
-    'click': 'openModal',
-  },
 });

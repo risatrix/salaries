@@ -6,9 +6,9 @@ body {background-color: whitesmoke; font-family: sans-serif; color: #5a5a5a;}
 
 #salary-list { margin: 0 auto; display: block; }
 
-/*.search { 
-  border: none; 
-  border-bottom: 1px solid #5a5a5a; 
+/*.search {
+  border: none;
+  border-bottom: 1px solid #5a5a5a;
   outline: none;
   background-color: whitesmoke;
   font-size: 1.2em;
