@@ -1,7 +1,7 @@
 var app = app || {};
 
 app.singleItemView = Backbone.View.extend({
-  
+
   tagName: "li",
 
   template: _.template( $("#itemElement").html() ),

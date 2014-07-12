@@ -1,16 +1,14 @@
 var app = app || {};
 
 app.ListView = Backbone.View.extend({
-  
+
   tagName: "ul",
 
   initialize: function() {
     //do this or fetch will run before items are added
-    var self = this,
-    is_loaded = False;
-      this.collection.fetch().done(function(){
+    var self = this;
+    this.collection.fetch().done(function(){
       self.render();
-      is_loaded = True;
     });
   },
 
