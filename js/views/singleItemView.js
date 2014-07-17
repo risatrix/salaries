@@ -18,6 +18,7 @@ app.singleItemView = Backbone.View.extend({
 
   openModal: function (e) {
     salaryRouter.navigate('/', {trigger: true});
+    //original list-only view
     // e.preventDefault();
     // modal = new app.modalView({ model: this.model} );
     // $("#modal").html(modal.render().el);
