@@ -29,7 +29,7 @@ body {background-color: whitesmoke; font-family: sans-serif; color: #5a5a5a;}
   padding: 1em;
   border: 1px solid #e6e6e6;
   background: white;
-  position: absolute;
+  position: fixed;
   left: 50%;
   top: 50%;
   -webkit-transform: translate(-50%, -50%);
