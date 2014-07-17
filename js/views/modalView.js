@@ -27,6 +27,7 @@ app.modalView = Backbone.View.extend({
 
   closeModal: function() {
     this.remove();
-  }  
+    salaryRouter.navigate('/', {trigger: true});
+  }
 
 });
