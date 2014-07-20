@@ -4,36 +4,11 @@ var app = app || {};
     idAttribute: 'KEY',
     defaults: {
       POSITION: "dogcatcher",
-      LOW: "cheap",
-      HIGH: "cheaper",
-      CAT: "blah",
-      SLUG: ""
+      LOW: 0,
+      HIGH: 100,
+      CAT: "foo",
+      SLUG: "slug-goes-here"
   },
 
-  url: function () {
-    return '/' + this.slug;
-  },
-
- parse: function (response) {
-    //get slug from position title
-    pos = response.POSITION;
-    slug = convertToSlug(pos);
-    function convertToSlug(Text) {
-      return Text
-        .toLowerCase()
-        .replace(/ /g,'-')
-        .replace(/[^\w-]+/g,'')
-        ;
-    }
-    //add created slug to model after fetching
-    return {
-      ID: response.KEY,
-      SLUG: slug,
-      POSITION: response.POSITION,
-      HIGH: response.HIGH,
-      LOW: response.LOW,
-      CAT: response.CAT
-    }
-  },
 
 });
